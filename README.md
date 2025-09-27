@@ -102,15 +102,15 @@ java NavegacionUrbana
 <div align=center >
   <img width="862" height="768" alt="image" src="https://github.com/user-attachments/assets/0c11b600-d3da-4a97-9e70-8e1129aa1399" />
 
-  ---
+  #
 
   <img width="717" height="714" alt="image" src="https://github.com/user-attachments/assets/e5f6d594-7b4a-410d-a744-c6c07791802c" />
 
-  ---
+  #
 
   <img width="675" height="803" alt="image" src="https://github.com/user-attachments/assets/4ee832f0-f065-4af6-9bcc-668091489737" />
 
-  ---
+  #
 
   <img width="720" height="735" alt="image" src="https://github.com/user-attachments/assets/20f0ff56-a379-4186-913e-2bfa4effe62e" />
 
